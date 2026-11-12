@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Principais Funcionalidades
+## 🚀 Principais Funcionalidades:
 
 - **Integração de Chatbot**: Chatbot facilmente acoplável para interação inicial com clientes.
 - **Coleta Automatizada de Dados**: Captura automática de informações essenciais (nome, e-mail, número do pedido, tipo de solicitação).
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas:
 
 ### Backend
 - **Node.js**: Ambiente de execução Javascript.
@@ -29,7 +29,7 @@
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto:
 
 ```text
 USCS-Chatbot_Omega/
@@ -46,7 +46,7 @@ USCS-Chatbot_Omega/
 └── package.json        # Dependências e scripts do projeto
 ```
 
-## 👥 Integrantes do Grupo
+## 👥 Integrantes do Grupo:
 
 - **Gabriel Cesar Soares Martine** (RA: 8160085)
 - **Giovana Honório Zakaluk** (RA: 8161876)
